@@ -3,5 +3,6 @@ extend-exclude = [
 	"*.js*", "*.json", "*.svg",
 	"/static/jira",
     "/content/blog/2023/07/2023-07-28-twim.md",
-    "/content/public-instances/instances.toml"
+    "/content/public-instances/instances.toml",
+    "/templates/macros/public_instances.html"
 ]
